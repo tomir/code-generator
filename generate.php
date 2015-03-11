@@ -1,7 +1,5 @@
 <?php
 
-// Konfiguracja
-
 $config['length'] = 9;
 // Alfabet
 $values = 'ACDEFGHIKLMNPRSTUVWXYZ';
